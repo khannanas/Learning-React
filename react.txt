@@ -1,0 +1,13 @@
+what is react ✅
+/*
+React js is a library for web and native user interfaces.Created by Facebook.
+Ab isme nextjs bhi mix hogaya hai to woh framework ban gaya hai. Framework mai backend front end dono hota hai*/
+
+Framework ✅
+Ans: Framework is a structured way to design something, most things are pehle se bani hoti hai.
+
+
+nextjs:- npx create-next-app (to create a app in next js )
+App k andar page.js main file hoti hai react ki 
+
+Components k liye hame folder structure sikhna hoga✅
